@@ -14,7 +14,7 @@ image may have characters that are either lighter or darker than the background.
 will be defined by the color that is touching the boundary of the image. All characters will be
 separated from each other by at least one background pixel but may have different gray levels.
 
-Script:[task1.py](Project-1 Optical Character Recognition - CV/tast1.py)
+Script:[task1.py](https://github.com/jmudit19/CSE-573_Computer_Vision/blob/main/Project-1%20Optical%20Character%20Recognition%20-%20CV/task1.py)
 
 Spring-2021
 University at Buffalo, The State University of New York.
