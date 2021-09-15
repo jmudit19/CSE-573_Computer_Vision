@@ -1,6 +1,6 @@
 
-**Project-1 :**
-**Optical Character Recognition**
+# Project-1 :Optical Character Recognition
+
 The goal of this task is to implement an optical character recognition (OCR) system. You will experiment
 with connected component and matching algorithms and your goal is both detection and recognition
 of various characters.
