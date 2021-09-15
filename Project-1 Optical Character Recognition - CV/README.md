@@ -19,9 +19,9 @@ Script:[task1.py](https://github.com/jmudit19/CSE-573_Computer_Vision/blob/main/
 
 Summary of results is available with the [PDF file](https://github.com/jmudit19/CSE-573_Computer_Vision/blob/main/Project-1%20Optical%20Character%20Recognition%20-%20CV/report.pdf)
 
-The following characters were recognised using Computer vision techniques - using Canny edge detection: [Characters](https://github.com/jmudit19/CSE-573_Computer_Vision/tree/main/Project-1%20Optical%20Character%20Recognition%20-%20CV/data/characters)
+The following characters were recognised using Computer vision techniques such as Canny edge detection: [Characters image directory](https://github.com/jmudit19/CSE-573_Computer_Vision/tree/main/Project-1%20Optical%20Character%20Recognition%20-%20CV/data/characters)
 
 Results: F1 score - 0.7575
 
-Spring-2021
+**Spring-2021**
 University at Buffalo, The State University of New York.
