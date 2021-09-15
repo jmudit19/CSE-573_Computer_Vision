@@ -1,4 +1,6 @@
+
 **Project-1 :**
+**Optical Character Recognition**
 The goal of this task is to implement an optical character recognition (OCR) system. You will experiment
 with connected component and matching algorithms and your goal is both detection and recognition
 of various characters.
@@ -17,6 +19,7 @@ Summary of results is available with the [PDF file](https://github.com/jmudit19/
 
 The following characters were recognised using Computer vision techniques - using Canny edge detection: [Characters](https://github.com/jmudit19/CSE-573_Computer_Vision/tree/main/Project-1%20Optical%20Character%20Recognition%20-%20CV/data/characters)
 
+Results: F1 score - 0.7575
 
 Spring-2021
 University at Buffalo, The State University of New York.
