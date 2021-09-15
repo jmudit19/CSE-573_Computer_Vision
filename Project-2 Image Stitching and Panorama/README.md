@@ -5,13 +5,13 @@
 ## Task 1: 
 The primary objective was to perform stitching and foreground removal from two image to form a single image
 
-![Task1](https://github.com/jmudit19/CSE-573_Computer_Vision/blob/main/Project-1%20Optical%20Character%20Recognition%20-%20CV/data/result.JPG)
+![Task1](https://github.com/jmudit19/CSE-573_Computer_Vision/blob/main/Project-2%20Image%20Stitching%20and%20Panorama/task1.png)
 
 ## Task-2:
 The primary objective of task-2 was Image panorama. Given 4 separate images, perform 
 homography and stitching to get single panoramic image.
 
-![Task2](https://github.com/jmudit19/CSE-573_Computer_Vision/blob/main/Project-1%20Optical%20Character%20Recognition%20-%20CV/data/result.JPG)
+![Task2](https://github.com/jmudit19/CSE-573_Computer_Vision/blob/main/Project-2%20Image%20Stitching%20and%20Panorama/task2.png)
 
 ## Usage:
 ```
