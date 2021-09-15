@@ -1,4 +1,4 @@
-# CSE-573_Computer_Vision
+# CSE-573 Computer Vision
 All the computer vision projects completed at University at Buffalo.
 
 **Project-1 :**
