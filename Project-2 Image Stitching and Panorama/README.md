@@ -5,7 +5,7 @@
 ## Task 1: 
 The primary objective was to perform stitching and foreground removal from two image to form a single image
 
-![Task1]<img src="https://github.com/jmudit19/CSE-573_Computer_Vision/blob/main/Project-2%20Image%20Stitching%20and%20Panorama/task1.png" width="400" height="400">
+<img src="https://github.com/jmudit19/CSE-573_Computer_Vision/blob/main/Project-2%20Image%20Stitching%20and%20Panorama/task1.png" width="450" height="320">
 
 ## Task-2:
 The primary objective of task-2 was Image panorama. Given 4 separate images, perform 
